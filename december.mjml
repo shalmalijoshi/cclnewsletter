@@ -1,0 +1,213 @@
+<mjml>
+  <mj-head>
+      <mj-style inline="inline">
+        .italic { font-style: italic; }
+      </mj-style>
+    <mj-title>Hello world</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500" />
+
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif" />
+      <mj-text font-weight="300" font-size="16" color="#616161" line-height="24px" />
+      <mj-section padding="0" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+
+    <mj-container>
+      <mj-section>
+        <mj-column width="100%">
+          <mj-image src="https://github.com/shalmalijoshi/cclnewsletter/blob/master/logo.png" />
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="center" font-weight="500" padding="0" font-size="22px">
+            December 2017 Austin Area Newsletter
+          </mj-text>
+          <mj-divider border-width="2px" border-color="#616161" width="45%" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify">
+            <p>
+              Welcome to the first edition of the Austin area CCL members’ newsletter. Each month we will send a newsletter with the latest achievements and goals of CCL’s Austin area chapters.
+            </p>
+            <p>
+              I am your newsletter compiler, Shalmali Joshi. If you have questions and suggestions, please <a href="mailto:shalmali.anu@gmail.com">email me</a>!
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Grasstops News
+          </mj-text>
+          <mj-image src="https://shalmalijoshi.github.io/cclnewsletter/ph1_cclnl1.png" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              Austin City Mayor Steve Adler and District 9 Council Member Kathie Tovo are our newest endorsers in November. Austin CCL Grasstops is planning a push for a City Council resolution endorsing the CCL's Carbon Fee and Dividend policy.
+            </p>
+            <p>
+              In the coming months, our grasstops coordinators Mike DeChellis and Mike Thompson are creating an endorser training program and a grasstops support group for CCL Austin. If you are interested in joining, contact them at <a href="michael.craig.thompson@gmail.com">michael.craig.thompson@gmail.com</a> or <a href="michael@dechellis.org">michael@dechellis.org</a>.
+              </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Social Media Accomplishments
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              Mike Zangrilli has taken over the Austin area Facebook Page and is doing terrific work building our following. The CCL Austin Facebook page currently has 200 followers. We will continue to add followers by encouraging volunteers to engage their friends and continue the outreach process through other Austin Eco-friendly groups.
+            </p>
+            <p>
+              Visit the overhauled <a href="https://www.facebook.com/CCLAustinTex/">Austin CCL Facebook</a> page to join, follow and share with your community!
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Lobbying Efforts
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              At Congressional Education Day in Washington D.C., local CCL volunteers met with Rep. John Carter's Legislative Director, Rep. Roger Williams’ legislative staff, and Rep. Lamar Smith’s office.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Media Outreach
+          </mj-text>
+          <mj-image width="250" src="https://shalmalijoshi.github.io/cclnewsletter/lte.png" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              The CCL Austin chapter successfully published two letters to the editor with the Austin American-Statesman and four with the Williamson County Sun. The letters explored questions related to revenue neutral carbon pricing and distribution of net proceeds back to households.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Grassroots Outreach
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              We've had an impressive run of tabling events lately. On November 7, CCL presented at the Austin Downtown Rotary. Two presentations and a tabling event were held at Southwestern University, which produced 74 constituent comments forms. A tabling event was also organized at Juli Berwald's book launch of 'Spineless: The Science of Jellyfish and the Art of Growing a Backbone' as well as at Planet Texas 2050. The Barton Springs chapter travelled to Johnson City and Kerrville for tabling events at the Science Mill and Kerr Market Days.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Chapter News
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              <span class="italic">Round Rock/Georgetown:</span> We added three new members. In the coming month, we will present at the Sun City Rotary Club, and we hope to arrange presentations to other community service clubs.
+            </p>
+            <p>
+              <span class="italic">Barton Springs:</span> We added several new members, and we continue working to arrange presentations throughout our congressional district (21).
+            </p>
+            <p>
+              <span class="italic">West/Central:</span> We hope to continue on our success with Letters to the Editor from earlier in the year, and we’ll be participating with the Barton Springs chapter presenting at the Circle C Democrats meeting on January, 8, 2018.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+
+<mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Local Members of Congress in the News
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              Congressman Lamar Smith wrote an op-ed to the The Daily Caller challenging an MIT climate study that links effects of climate change on severity of hurricanes, drought and flooding. Read the <a href="http://dailycaller.com/2017/11/20/bad-science-an-mit-study-linking-hurricane-harvey-rainfall-to-climate-change-is-alarmist-bunk/">full article</a>.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column width="65%">
+          <mj-image align="left" width="150px" src="https://github.com/shalmalijoshi/cclnewsletter/blob/master/logo.png" />
+        </mj-column>
+        <mj-column width="35%">
+          <mj-image align="right" width="25" href="https://github.com/shalmalijoshi/cclnewsletter/blob/master/social_fb.png" />
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>

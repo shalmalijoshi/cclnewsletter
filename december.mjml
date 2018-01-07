@@ -18,7 +18,7 @@
     <mj-container>
       <mj-section>
         <mj-column width="100%">
-          <mj-image src="https://github.com/shalmalijoshi/cclnewsletter/blob/master/logo.png" />
+          <mj-image src="https://shalmalijoshi.github.io/cclnewsletter/logo.png" />
         </mj-column>
       </mj-section>
       <mj-section>
@@ -201,10 +201,10 @@
 
       <mj-section>
         <mj-column width="65%">
-          <mj-image align="left" width="150px" src="https://github.com/shalmalijoshi/cclnewsletter/blob/master/logo.png" />
+          <mj-image align="left" width="150px" src="https://shalmalijoshi.github.io/cclnewsletter/logo.png" />
         </mj-column>
         <mj-column width="35%">
-          <mj-image align="right" width="25" href="https://github.com/shalmalijoshi/cclnewsletter/blob/master/social_fb.png" />
+          <mj-image align="right" width="25px" href="https://www.facebook.com/CCLAustinTex/" src="https://shalmalijoshi.github.io/cclnewsletter/social_fb.png" />
         </mj-column>
       </mj-section>
 

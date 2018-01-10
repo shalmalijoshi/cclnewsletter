@@ -46,6 +46,18 @@
       <mj-section>
         <mj-column width="100%">
           <mj-text align="justify" font-weight="500" font-size="18px">
+            3rd Coast Regional News
+          </mj-text>
+          <mj-text>
+             The 5th Annual Regional Conference of the Texas, Louisiana, and Mississippi chapters of CCL will be held in Houston next month (February 3, 2018). Click <a href="https://donate.citizensclimateeducationcorp.org/houston/events/2018-third-coast-regional-conference/e158242">here</a> to register today with an early-bird discount and check out the agenda. A film screening and mixer is also scheduled for the evening before. Click <a href="https://www.eventbrite.com/e/national-security-climate-risk-a-screening-panel-discussion-tickets-41909337958">here</a> to get tickets.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
             Grasstops News
           </mj-text>
           <mj-image src="https://shalmalijoshi.github.io/cclnewsletter/ph1_cclnl1.png" />
@@ -97,7 +109,7 @@
             <p>
               Multiple local volunteers travelled to Washington D.C. for Congressional Education Day in November. They had in-person meetings with Rep. John Carter's Legislative Director, Rep. Roger Williams’ legislative staff, and Rep. Lamar Smith’s office.
             </p>
-          </mj-text>
+         </mj-text>
         </mj-column>
       </mj-section>
 
@@ -140,6 +152,9 @@
             <p>
               We've had an impressive run of tabling events lately. On November 7, CCL presented at the Austin Downtown Rotary. Two presentations and a tabling event were held at Southwestern University, which produced 74 constituent comments forms. A tabling event was also organized at Juli Berwald's book launch of 'Spineless: The Science of Jellyfish and the Art of Growing a Backbone' as well as at Planet Texas 2050. The Barton Springs chapter travelled to Johnson City and Kerrville for tabling events at the Science Mill and Kerr Market Days.
             </p>
+           <p>
+              Citizens' Climate Lobby is co-hosting a free <a href="http://cleantx.org/event/citizens-climate-change-forum/">Climate Change Forum</a> with <a href="http://cleantx.org/">CleanTX</a> and <a href="http://austineconetwork.com/">Austin EcoNetwork</a> on Jan 23, 2018. Among the speakers is Zach Baumer, Climate Program Manager with the Office of Sustainability, City of Austin, TX and local CCL volunteer Mike Thompson.
+           </p>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -159,7 +174,7 @@
         <mj-column width="100%">
           <mj-text>
             <p>
-              <span class="italic">Round Rock/Georgetown:</span> We added three new members. In the coming month, we will present at the Sun City Rotary Club, and we hope to arrange presentations to other community service clubs.
+              <span class="italic">Round Rock/Georgetown:</span> We added three new members. The chapter also presented to the Round Rock Sunrise Rotary on December 1, 2017 and the Sun City Rotary Club on Jan 9, 2018.
             </p>
             <p>
               <span class="italic">Barton Springs:</span> We added several new members, and we continue working to arrange presentations throughout our congressional district (21).
@@ -187,6 +202,9 @@
           <mj-text>
             <p>
               Congressman Lamar Smith wrote an op-ed to the The Daily Caller challenging an MIT climate study that links effects of climate change on severity of hurricanes, drought and flooding. Read the <a href="http://dailycaller.com/2017/11/20/bad-science-an-mit-study-linking-hurricane-harvey-rainfall-to-climate-change-is-alarmist-bunk/">full article</a>.
+            </p>
+            <p>
+              Peter Bryn, CCL’s former Conservative Director, wrote an op-ed in The Daily Caller titled, 'A Conservative Escape Plan on Climate Change'. Read the op-ed <a href="http://dailycaller.com/2017/11/29/its-time-for-conservatives-to-kick-the-nasty-habit-of-dismissing-climate-science/">here</a>.
             </p>
           </mj-text>
         </mj-column>

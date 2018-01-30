@@ -1,0 +1,213 @@
+<mjml>
+  <mj-head>
+      <mj-style inline="inline">
+        .italic { font-style: italic; }
+      </mj-style>
+    <mj-title>Hello world</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500" />
+
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif" />
+      <mj-text font-weight="300" font-size="16" color="#616161" line-height="24px" />
+      <mj-section padding="0" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+
+    <mj-container>
+      <mj-section>
+        <mj-column width="100%">
+          <mj-image src="https://shalmalijoshi.github.io/cclnewsletter/logo.png" />
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="center" font-weight="500" padding="0" font-size="22px">
+            January 2018 Austin Area Newsletter
+          </mj-text>
+          <mj-divider border-width="2px" border-color="#616161" width="45%" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify">
+            <p>
+              Welcome to the second edition of the Austin area CCL members’ newsletter. This edition highlights Austin area CCL's achievements for the month of Dec/Jan 2018.
+            </p>
+            <p>
+              I am your newsletter compiler, Shalmali Joshi. If you have questions and suggestions, please <a href="mailto:shalmali.anu@gmail.com">email me</a>!
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Grasstops News
+          </mj-text>
+          <mj-image src="https://shalmalijoshi.github.io/cclnewsletter/kathithomas.jpg" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              Kathi Thomas visited the CCL-Austin West/Central chapter meeting to discuss climate change and her general agenda. Visit her website at <a href="https://www.kathiforcongress.com/">Kathi for Congress</a>.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Social Media Accomplishments
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              This month, we merged the Barton Springs page into the Austin-Metro page on Facebook with a new logo & cover photo. The facebook page now lists our monthly chapter meetings as Events. Tabling events and events co-hosted by any of our chapters is now shared on the page. We hope to continue to add followers (currently at 200) by encouraging volunteers to engage their friends and outreach through other Austin Eco-friendly groups.
+            </p>
+            <p>
+              Visit the overhauled <a href="https://www.facebook.com/CCLAustinTex/">Austin CCL Facebook</a> page to join, follow and share with your community!
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Lobbying Efforts
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              At Congressional Education Day in Washington D.C., local CCL volunteers met with Rep. John Carter's Legislative Director, Rep. Roger Williams’ legislative staff, and Rep. Lamar Smith’s office.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Media Outreach
+          </mj-text>
+          <mj-image width="250" src="https://shalmalijoshi.github.io/cclnewsletter/lte.png" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              The CCL Austin chapter successfully published two letters to the editor with the Austin American-Statesman. The Austin/San Macros chapter published an LTE with the San Marcos Daily Record.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+
+      <!--mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Grassroots Outreach
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              We've had an impressive run of tabling events lately. On November 7, CCL presented at the Austin Downtown Rotary. Two presentations and a tabling event were held at Southwestern University, which produced 74 constituent comments forms. A tabling event was also organized at Juli Berwald's book launch of 'Spineless: The Science of Jellyfish and the Art of Growing a Backbone' as well as at Planet Texas 2050. The Barton Springs chapter travelled to Johnson City and Kerrville for tabling events at the Science Mill and Kerr Market Days.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section-->
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Chapter News
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              <span class="italic">Round Rock/Georgetown:</span> We added three new members. In the coming month, we will present at the Sun City Rotary Club, and we hope to arrange presentations to other community service clubs.
+            </p>
+            <p>
+              <span class="italic">Barton Springs:</span> The chapter participated in Kelly's Circle C Democrats' presentation. The chapter has set some action goals to help focus on particular events/efforts of interest while maintaining a balance in our lives to help us endure with CCL in the long haul. Specifically, they have agreed to each individually consider making/planning/participating in two CCL efforts/events per month as a reasonable guideline and to create a team for each individual event. This has helped their group leader focus on group leader planning and sharing strategies with chapter. This is in part for the chapter to be more effective and productive in the long run, and help to maintain membership and enthusiasm. Their goal for the next month is for each person to consider and if able participate/create/plan two CCL focused actions. The chapter leader sent out to the chapter a list of suggested actions, and they will take inventory next month's meeting to determine if this is helpful. The chapter added one new volunteer.
+            </p>
+            <p>
+              <span class="italic">West/Central:</span> The chapter added two new members. Mark Warren's LTE "Pushing for renewables is the right path to be on" got published! The chapter made a presentation for Circle C Democrats, They organized multiple tabling events, rolled out the monthly newsletter and the new facebook page got launched. Tabling kits have been upgraded for the Austin metro area events. Along with the ongoing group development, the chapter designated two new liaisons (Mark Warren and Will Archer), with several members joining the CCL Outreach Action Team. We are gathering the metro area's excitement/appreciation of the monthly newsletter.
+            </p>
+            <p>
+              <span class="italic">Austin/San Marcos:</span> The chapter added two new members last month. They held the first group meeting, organized a tabling event on Earth Day and published an LTE with the San Marcos Daily Record. We are planning an educational presentation to our community to let them know about the CCL Carbon Finance and Dividend plan. The chapter is especially targeting local environmental groups.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+
+     <!--mj-section>
+        <mj-column width="100%">
+          <mj-text align="justify" font-weight="500" font-size="18px">
+            Local Members of Congress in the News
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <p>
+              Congressman Lamar Smith wrote an op-ed to the The Daily Caller challenging an MIT climate study that links effects of climate change on severity of hurricanes, drought and flooding. Read the <a href="http://dailycaller.com/2017/11/20/bad-science-an-mit-study-linking-hurricane-harvey-rainfall-to-climate-change-is-alarmist-bunk/">full article</a>.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section-->
+
+
+      <mj-section>
+        <mj-column width="65%">
+          <mj-image align="left" width="150px" src="https://shalmalijoshi.github.io/cclnewsletter/logo.png" />
+        </mj-column>
+        <mj-column width="35%">
+          <mj-image align="right" width="25px" href="https://www.facebook.com/CCLAustinTex/" src="https://shalmalijoshi.github.io/cclnewsletter/social_fb.png" />
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>

@@ -48,7 +48,7 @@
           <mj-text align="justify" font-weight="500" font-size="18px">
             Grasstops News
           </mj-text>
-          <mj-image src="https://shalmalijoshi.github.io/cclnewsletter/kathithomas.jpg" />
+          <mj-image width="250" src="https://shalmalijoshi.github.io/cclnewsletter/kathithomas.jpg" />
         </mj-column>
         <mj-column width="100%">
           <mj-text>
